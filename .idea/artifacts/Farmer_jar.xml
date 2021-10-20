@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Farmer:jar">
+    <output-path>$USER_HOME$/.simplebot/privatescripts/317</output-path>
+    <root id="archive" name="Farmer.jar">
+      <element id="module-output" name="Farmer" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/xeros/simplebot-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.simplebot/assets/xeros/xeros-client.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
